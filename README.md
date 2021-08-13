@@ -16,3 +16,5 @@ I used a ASUS Tuf Gaming A15 laptop to run all my code. My laptop is updated to 
 - step 4: Run the code and input the full name (including .dox/.mgf in the name)
 
 ## The full script can be found under [MainScript.py](https://github.com/michelley13/seap2021/blob/e066ceaa943ea632edb40ab0b6f1b20c9917df79/MainScript.py)
+
+## The next part of the project that I was working on can be found under [NextSteps.py](https://github.com/michelley13/seap2021/blob/0dcf6cd92c7afa4aa15c9fbe3a0ec5d76fc83635/NextSteps.py)
